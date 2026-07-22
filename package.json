@@ -1,0 +1,30 @@
+{
+  "name": "travel_app",
+  "version": "0.1.0",
+  "private": true,
+  "description": "<div align=\"center\">   <br />     <a href=\"https://youtu.be/cuzw4vL1z5E?feature=shared\" target=\"_blank\">       <img src=\"https://github.com/adrianhajdin/travel_ui_ux/assets/151519281/c72ebf75-847d-4a98-8f8a-24be02dac752\" alt=\"Project Banner\">     </a>   <br />",
+  "license": "ISC",
+  "author": "dominic wokorach olanya",
+  "type": "commonjs",
+  "main": "next.config.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18",
+    "react-dom": "^18",
+    "next": "13.5.4"
+  },
+  "devDependencies": {
+    "typescript": "^5",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10",
+    "postcss": "^8",
+    "tailwindcss": "^3"
+  }
+}
